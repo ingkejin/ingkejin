@@ -1,6 +1,6 @@
 <h1>Hi there 🤙🏻</h1>
+<img src="https://user-images.githubusercontent.com/93256168/173592012-25db7782-f720-4208-a0c8-a6c9fb072655.png">
 <br>
-<img src="https://user-images.githubusercontent.com/93256168/173590609-45ae5104-3096-49ba-a179-7e175bd36505.png">
 
 <div>
   <h3>My Tech Stack 💻</h3>
