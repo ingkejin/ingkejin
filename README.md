@@ -25,5 +25,9 @@
   <a href="https://velog.io/@ingkejin/series">
     <img src="https://img.shields.io/badge/Velog-20C997?style=Static&logo=Velog&logoColor=white">
   </a>
+  <br>
+  <hr>
+  
+  https://github-readme-stats.vercel.app/api?username=ingkejin&show_icons=true&theme=highcontrast
 </div>
 
