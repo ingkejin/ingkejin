@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://ingkejin.github.io/">
-    <img src="https://user-images.githubusercontent.com/93256168/173592012-25db7782-f720-4208-a0c8-a6c9fb072655.png">
+    <img src="https://user-images.githubusercontent.com/93256168/173607743-8db5ec75-1a1b-446c-b601-ffe4f06f5e86.png">
   </a>
 <br>
 
