@@ -1,6 +1,7 @@
 <h1>Hi there 🤙🏻</h1>
+![image](https://user-images.githubusercontent.com/93256168/173590609-45ae5104-3096-49ba-a179-7e175bd36505.png)
 <br>
-<img src="file:///Users/jin/Desktop/info-bgc%20copy.jpg">
+
 <div>
   <h3>My Tech Stack 💻</h3>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
