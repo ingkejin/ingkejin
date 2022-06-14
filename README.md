@@ -1,5 +1,5 @@
 <h1>Hi there 🤙🏻</h1>
-<br>
+
 <div>
   <h3>My Tech Stacks 💻</h3>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
