@@ -28,6 +28,6 @@
   <br>
   <hr>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ingkejin&show_icons=true&theme=highcontrast>
+  <img src="https://github-readme-stats.vercel.app/api?username=ingkejin&show_icons=true&theme=dark>
 </div>
 
