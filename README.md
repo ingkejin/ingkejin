@@ -27,7 +27,7 @@
 <div>
   <h3>My Velog 🚀</h3>
   <a href="https://velog.io/@ingkejin/series">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=Static&logo=Velog&logoColor=white">
   </a>
 </div>
 
